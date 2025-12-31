@@ -4,8 +4,6 @@ This repository contains the implementation of a deep learning-based system for 
 
 The project evaluates multiple CNN and detection architectures trained on concrete crack images and tested on solar panel images to analyze domain shift and generalization performance.
 
----
-
 ##  Project Overview
 
 - Task: Crack detection and classification
@@ -19,7 +17,6 @@ The project evaluates multiple CNN and detection architectures trained on concre
 - MobileNetV2
 - Faster R-CNN
 
----
 ##  Methodology
 
 1. Data preprocessing and augmentation using `ImageDataGenerator`
@@ -28,7 +25,6 @@ The project evaluates multiple CNN and detection architectures trained on concre
 4. Evaluation using accuracy, precision, recall, F1-score, and confusion matrices
 5. Visualization of predictions using OpenCV
 
----
 
 ##  Results Summary
 
@@ -41,7 +37,6 @@ The project evaluates multiple CNN and detection architectures trained on concre
 
 EfficientNet-B0 demonstrated the best cross-domain generalization and is recommended for real-world deployment.
 
----
 
 ##  Tech Stack
 
@@ -51,8 +46,8 @@ EfficientNet-B0 demonstrated the best cross-domain generalization and is recomme
 - NumPy, Pandas, Matplotlib
 - Google Colab / GPU
 
----
 ## Authors
+
 Sk. Zaafira Yumn
 
 Rachumallu Viswanadh
