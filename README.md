@@ -1,6 +1,7 @@
 # Cross_Domain_Crack_Detection_Using_DeepLearning
 
 This repository contains the implementation of a deep learning-based system for automated crack detection across visually different domains — concrete structures and photovoltaic (PV) solar panels.
+The models where trained on  concerete dataset and tested on solar panel images.
 
 The project evaluates multiple CNN and detection architectures trained on concrete crack images and tested on solar panel images to analyze domain shift and generalization performance.
 
